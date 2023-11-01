@@ -1,0 +1,35 @@
+h1 {
+    background-color: lightblue;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+p {
+    color: orangered;
+}
+
+img {
+    border: 5px solid red;
+}
+
+table, th, td {
+    border: 1px solid;
+    font-size: 23px;
+}
+
+body {
+    background-color: yellowgreen;
+}
+
+a {
+    font-size: 27px;
+}
+
+.container {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}
